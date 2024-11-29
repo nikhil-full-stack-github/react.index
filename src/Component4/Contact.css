@@ -1,0 +1,30 @@
+.index-1000{
+
+    background-image: url("./devu.jpg");
+
+}
+
+
+.index-800{
+
+    color: white;
+    border: 2px solid red;
+    background-color: black;
+
+}
+
+
+.index-11{
+
+   margin-top: 100px;
+
+}
+
+.index-12{
+
+    color: yellow;
+    font-weight: 100;
+    margin-top: 335px;
+    padding-inline-start: 580px;
+
+}

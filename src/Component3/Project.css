@@ -1,0 +1,53 @@
+.index-150{
+    
+    background-image: url("./devu.jpg");
+
+}
+
+.index-160{
+
+    color: yellow;
+    font-weight: 100;
+
+}
+
+.index-210{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+}
+
+
+.index-300{
+
+    color: aliceblue;
+
+}
+
+.index-350{
+
+color: aliceblue;
+
+}
+
+.index-400{
+
+color: aliceblue;
+
+}
+
+
+.index-500{
+
+color: aliceblue;
+
+
+}
+
+.index-600{
+
+color: aliceblue;
+
+}
